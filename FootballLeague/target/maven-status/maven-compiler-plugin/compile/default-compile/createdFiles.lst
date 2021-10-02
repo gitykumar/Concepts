@@ -1,0 +1,16 @@
+football\league\yogesh\footballleague\client\TeamStandingRestClient.class
+football\league\yogesh\footballleague\model\Leagues.class
+football\league\yogesh\footballleague\model\TeamStanding.class
+football\league\yogesh\footballleague\config\WebConfig.class
+football\league\yogesh\footballleague\log\annotation\Trace.class
+football\league\yogesh\footballleague\FootballLeagueApplication.class
+football\league\yogesh\footballleague\service\TeamStandingService.class
+football\league\yogesh\footballleague\dto\TeamStandingDto.class
+football\league\yogesh\footballleague\model\TeamStandingRequest.class
+football\league\yogesh\footballleague\log\aspect\LoggingAspect.class
+football\league\yogesh\footballleague\exception\RestApiError.class
+football\league\yogesh\footballleague\log\eventtype\LogEventType.class
+football\league\yogesh\footballleague\model\Country.class
+football\league\yogesh\footballleague\advice\ExceptionControllerAdvice.class
+football\league\yogesh\footballleague\controller\FootBallStandingController.class
+football\league\yogesh\footballleague\exception\BadRequestException.class
